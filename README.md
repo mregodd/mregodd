@@ -1,16 +1,24 @@
-## Hi there 👋
+## Egemen Derbedek
+Full-stack developer at [Bambu Games](<bambu-games-url>) · Bursa, Türkiye
+Computer Engineering, Namık Kemal University (2024)
 
-<!--
-**mregodd/mregodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**At Bambu Games**
+- Wrote most of the code since mid-2025, across three parts: the Node.js / Express + MongoDB backend, a web admin panel I built from scratch in Next.js and TypeScript, and the Electron + React desktop app that runs on our hardware.
+- Build features end to end, from the database and API to the screen: card and QR payments, e-invoicing, role-based access, and device integration over serial port.
+- Run production too: monitoring and alerts, finding the cause of outages, database performance and security fixes.
 
-Here are some ideas to get you started:
+**Tools I use**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Tools](https://skillicons.dev/icons?i=python,fastapi,java,cs,dotnet,ts,react,nextjs,postgres,cloudflare,githubactions)](https://skillicons.dev)
+
+**Side projects**
+
+| Project | Stack |
+|---|---|
+| trligelo (→ trligelo.com): every professional football club in Turkey on one Elo scale (personal, non-commercial) | Python, Next.js, Cloudflare |
+| task-manager-api (→ github.com): task management REST API | Python, FastAPI |
+| crm-case (→ github.com): CRM case study | .NET Core, PostgreSQL, React |
+| todoapp (→ github.com): REST and GraphQL to-do app | Java |
+| Chatbot-Project (→ github.com): graduation project | Python |
+
+LinkedIn (→ www.linkedin.com) · derbedekegemen@gmail.com
