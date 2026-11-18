@@ -1,5 +1,5 @@
 ## Egemen Derbedek
-Full-stack developer at [Bambu Games](<bambu-games-url>) · Bursa, Türkiye
+Full-stack developer at [Bambu Games](https://bambugames.com.tr/) · Bursa, Türkiye
 Computer Engineering, Namık Kemal University (2024)
 
 **At Bambu Games**
@@ -9,7 +9,7 @@ Computer Engineering, Namık Kemal University (2024)
 
 **Tools I use**
 
-[![Tools](https://skillicons.dev/icons?i=python,fastapi,java,cs,dotnet,ts,react,nextjs,postgres,cloudflare,githubactions)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=python,electron,java,cs,dotnet,ts,react,js,nextjs,postgres,cloudflare,githubactions,docker,fastapi)](https://skillicons.dev)
 
 **Side projects**
 
@@ -21,4 +21,4 @@ Computer Engineering, Namık Kemal University (2024)
 | todoapp (→ github.com): REST and GraphQL to-do app | Java |
 | Chatbot-Project (→ github.com): graduation project | Python |
 
-LinkedIn (→ www.linkedin.com) · derbedekegemen@gmail.com
+LinkedIn (→ [www.linkedin.com](https://www.linkedin.com/in/egemenderbedek/)) · derbedekegemen@gmail.com
